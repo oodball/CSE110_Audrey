@@ -1,4 +1,10 @@
 # Audrey's CSE 110 Index page
+
+## Table of Contents: 
+
+[Person](https://oodball.github.io/CSE110_Audrey/#about-me-as-a-programmer)
+
+[Career](https://oodball.github.io/CSE110_Audrey/#about-me-as-a-person)
 ## About Me As a Person: 
 1.  I am a **3rd year**!
     * I've been at UCSD since my freshman year
@@ -23,7 +29,7 @@
 - [ ] Practice coding challenges regularly
 
 ### My Skills:
-`C`, `C++`, `Java`, `Python`, `HTML`, `CSS`
+`C`, `C++`, `Java`, `Python`, `HTML`, ~~`CSS`~~ (I'm not as good at this one)
 
 
 ### Links to my work: 
