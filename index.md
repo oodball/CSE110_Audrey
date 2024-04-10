@@ -13,13 +13,18 @@
     * I'm hoping to visit more of Asia soon. 
 3. I like Kirby
     * Kirby is me, I am Kirby. Look at him!!!
-> ![Kirby](pics/kirby.jpg)
+ ![Kirby](pics/kirby.jpg)
+ >in the wise words of Kirby: "Poyo Poyo"
    
 ## About me as a Programmer:
 `My Checklist`
 - [ ] Get an Internship
 - [x] Do CS related Research
 - [ ] Practice coding challenges regularly
+
+### My Skills:
+`C`, `C++`, `Java`, `Python`, `HTML`, `CSS`
+
 
 ### Links to my work: 
 1. [My COGS 118B Project](https://github.com/Daphne-wu/COGS118BGroupProject)
